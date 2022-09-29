@@ -1,3 +1,6 @@
+# Announcement :loudspeaker: 
+
+This repository is transferred from [gdm-SynseneHealth](https://github.com/sensynehealth/pytest-dhos) to Huma organisation as part of change in asset ownership 
 # pytest-dhos
 A pytest plugin library containing common pytest fixtures for Polaris projects.
 
